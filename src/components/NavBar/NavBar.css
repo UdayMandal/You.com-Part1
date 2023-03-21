@@ -1,0 +1,19 @@
+#cont{
+    display: none;
+    transform: translateY(100%);
+}
+
+#cont2{
+    display: block;
+    transform: translateY(0%);
+}
+
+#blur{
+    display:block;
+    background-color: rgb(27, 44, 63);
+    filter: blur(10em);
+}
+
+#noBlur{
+    display:none
+}
